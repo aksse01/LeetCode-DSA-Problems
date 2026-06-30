@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0001-two-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
