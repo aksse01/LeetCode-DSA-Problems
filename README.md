@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0004-median-of-two-sorted-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0015-3sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
