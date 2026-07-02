@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0002-add-two-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0020-valid-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
