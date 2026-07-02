@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0003-longest-substring-without-repeating-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0012-integer-to-roman](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
