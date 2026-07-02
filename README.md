@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0002-add-two-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0002-add-two-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 ## Binary Search
 |  |
 | ------- |
