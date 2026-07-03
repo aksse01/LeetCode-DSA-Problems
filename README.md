@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0018-4sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0018-4sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0005-longest-palindromic-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0022-generate-parentheses) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -135,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
