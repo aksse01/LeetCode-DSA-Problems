@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0016-3sum-closest](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0027-remove-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0018-4sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
