@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0038-count-and-say) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
