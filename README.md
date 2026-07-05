@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0033-search-in-rotated-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0036-valid-sudoku) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0013-roman-to-integer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0036-valid-sudoku) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
