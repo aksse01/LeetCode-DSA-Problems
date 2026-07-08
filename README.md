@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0012-integer-to-roman](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
