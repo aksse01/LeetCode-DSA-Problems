@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0040-combination-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0032-longest-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
