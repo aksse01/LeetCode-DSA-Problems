@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0013-roman-to-integer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0036-valid-sudoku](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
