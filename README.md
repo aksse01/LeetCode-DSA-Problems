@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0029-divide-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0024-swap-nodes-in-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
