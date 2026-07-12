@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0041-first-missing-positive](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0049-group-anagrams](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
