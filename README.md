@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0043-multiply-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
