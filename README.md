@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0056-merge-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0053-maximum-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0048-rotate-image](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
