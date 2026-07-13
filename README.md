@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0063-unique-paths-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0058-length-of-last-word](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0054-spiral-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
