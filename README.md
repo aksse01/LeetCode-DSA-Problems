@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0065-valid-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0071-simplify-path) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0020-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0071-simplify-path) |
 ## Merge Sort
 |  |
 | ------- |
