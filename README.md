@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0066-plus-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0063-unique-paths-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
