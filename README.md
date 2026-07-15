@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0041-first-missing-positive](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
