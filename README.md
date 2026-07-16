@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0064-minimum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0073-set-matrix-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
