@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0078-subsets](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
