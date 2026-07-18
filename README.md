@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0076-minimum-window-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0072-edit-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
