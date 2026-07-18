@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
