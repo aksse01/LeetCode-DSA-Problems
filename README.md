@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0087-scramble-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0093-restore-ip-addresses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0044-wildcard-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0042-trapping-rain-water](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
