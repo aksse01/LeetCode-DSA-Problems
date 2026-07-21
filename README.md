@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0100-same-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0099-recover-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0099-recover-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
