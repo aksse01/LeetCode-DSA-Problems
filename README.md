@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0049-group-anagrams](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0004-median-of-two-sorted-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0101-symmetric-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0101-symmetric-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
