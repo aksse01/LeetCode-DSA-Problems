@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0097-interleaving-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0097-interleaving-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Memoization
 |  |
 | ------- |
