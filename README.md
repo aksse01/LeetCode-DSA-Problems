@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0112-path-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0112-path-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
