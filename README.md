@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0091-decode-ways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0095-unique-binary-search-trees-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
