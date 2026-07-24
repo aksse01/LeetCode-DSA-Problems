@@ -1,11 +1,18 @@
 class Solution {
-    public int minimumTotal(List<List<Integer>> tri) {
-        for (int i = tri.size() - 2; i >= 0; i--)
-            for (int j = 0; j < tri.get(i).size(); j++)
-                tri.get(i).set(j, tri.get(i).get(j) + Math.min(
-                    tri.get(i + 1).get(j),
-                    tri.get(i + 1).get(j + 1)
-                ));
-        return tri.get(0).get(0);
+    public int minimumTotal(List<List<Integer>> triangle) {
+        int row = triangle.size();
+        int[] memo = new int[row];
+
+        for (int i = 0; i < row; i++) {
+            memo[i] = triangle.get(row - 1).get(i);
+        }
+
+        for (int r = row-2; r >= 0; r--) {
+            for (int c = 0; c <= r; c++) {
+                memo[c] = Math.min(memo[c], memo[c+1]) + triangle.get(r).get(c);
+            }
+        }
+
+        return memo[0];        
     }
 }
