@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0118-pascals-triangle) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0096-unique-binary-search-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0118-pascals-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
