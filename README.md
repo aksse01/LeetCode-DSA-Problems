@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0120-triangle) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0115-distinct-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0120-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
