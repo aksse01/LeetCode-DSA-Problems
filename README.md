@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
