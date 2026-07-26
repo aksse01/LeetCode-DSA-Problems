@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0115-distinct-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0127-word-ladder) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
