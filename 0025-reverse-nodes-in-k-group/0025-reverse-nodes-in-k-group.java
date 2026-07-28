@@ -1,46 +1,54 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null) {
-            return null;
-        }
-        
-        // Step 1: Verify if there are at least k nodes left to reverse 📐
-        ListNode tail = head;
-        for (int i = 0; i < k; i++) {
-            if (tail == null) {
-                return head; // Fewer than k nodes left, leave them untouched!
-            }
-            tail = tail.next;
+       ListNode s = head;
+       ListNode f = head;
+       ListNode newhead = null;
+       ListNode prevtail = null;
+       while(f!=null){
+        f = s;
+        for(int i=1;i<k && f!=null ;i++){
+            f=f.next;
         }
 
-        // Step 2: Reverse the local k-group segment 🔀
-        ListNode newHead = reverse(head, tail);
+        if(f==null) break;
+
+        ListNode nextnode =  f.next;
+        f.next = null;
+        ListNode x = reverse(s);
+       
+        if(s == head){
+            newhead = x;
+        }
+        else{
+            prevtail.next = x;
+        }
+        prevtail = s;
+        s.next =nextnode;
+        s = nextnode;
         
-        // Step 3: Recursively solve for the remaining chunks and connect links 🧵
-        head.next = reverseKGroup(tail, k);
-        
-        return newHead;
+       } 
+       return newhead;
     }
-
-    // Helper method to reverse nodes from 'curr' up to (but excluding) 'end'
-    public ListNode reverse(ListNode curr, ListNode end) {
+    public ListNode reverse(ListNode head){
+        if(head== null || head.next == null) return head;
+        ListNode temp = head;
         ListNode prev = null;
-        while (curr != end) {
-            ListNode next = curr.next; // Save the next node reference
-            curr.next = prev;          // Reverse the current pointer
-            prev = curr;               // Advance prev
-            curr = next;               // Advance curr
+        while(temp!=null){
+            ListNode t1 = temp.next;
+            temp.next = prev;
+            prev= temp;
+            temp = t1;
         }
-        return prev; // 'prev' becomes the new head of this reversed block
+        return prev;
     }
 }
