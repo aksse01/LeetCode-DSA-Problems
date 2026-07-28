@@ -3,36 +3,39 @@ class Solution {
         if (lists == null || lists.length == 0) {
             return null;
         }
-
-        while (lists.length > 1) {
-            List<ListNode> temp = new ArrayList<>();
-            for (int i = 0; i < lists.length; i += 2) {
-                ListNode l1 = lists[i];
-                ListNode l2 = i + 1 < lists.length ? lists[i + 1] : null;
-                temp.add(mergeLists(l1, l2));
-            }
-            lists = temp.toArray(new ListNode[0]);
-        }
-
-        return lists[0];        
+        return mergeKListsHelper(lists, 0, lists.length - 1);
     }
-
-    private ListNode mergeLists(ListNode l1, ListNode l2) {
-        ListNode node = new ListNode();
-        ListNode ans = node;
-
-        while (l1 != null && l2 != null) {
-            if (l1.val > l2.val) {
-                node.next = l2;
-                l2 = l2.next;
-            } else {
-                node.next = l1;
-                l1 = l1.next;
-            }
-            node = node.next;
+    
+    private ListNode mergeKListsHelper(ListNode[] lists, int start, int end) {
+        if (start == end) {
+            return lists[start];
         }
-
-        node.next = l1 != null ? l1 : l2;
-        return ans.next;
-    }    
+        if (start + 1 == end) {
+            return merge(lists[start], lists[end]);
+        }
+        int mid = start + (end - start) / 2;
+        ListNode left = mergeKListsHelper(lists, start, mid);
+        ListNode right = mergeKListsHelper(lists, mid + 1, end);
+        return merge(left, right);
+    }
+    
+    private ListNode merge(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        
+        while (l1 != null && l2 != null) {
+            if (l1.val < l2.val) {
+                curr.next = l1;
+                l1 = l1.next;
+            } else {
+                curr.next = l2;
+                l2 = l2.next;
+            }
+            curr = curr.next;
+        }
+        
+        curr.next = (l1 != null) ? l1 : l2;
+        
+        return dummy.next;
+    }
 }
