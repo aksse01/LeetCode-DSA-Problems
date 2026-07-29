@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0125-valid-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0095-unique-binary-search-trees-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
