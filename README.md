@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0136-single-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0133-clone-graph](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0113-path-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -556,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0070-climbing-stairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 ## Number Theory
 |  |
 | ------- |
