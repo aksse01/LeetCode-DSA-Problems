@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0130-surrounded-regions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0124-binary-tree-maximum-path-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
