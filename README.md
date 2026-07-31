@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0044-wildcard-matching](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0088-merge-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
