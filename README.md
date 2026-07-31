@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0137-single-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0070-climbing-stairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
