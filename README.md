@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0138-copy-list-with-random-pointer](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -662,4 +664,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
