@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
