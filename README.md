@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0142-linked-list-cycle-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
