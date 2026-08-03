@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0147-insertion-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
