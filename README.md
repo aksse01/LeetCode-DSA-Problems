@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0164-maximum-gap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0079-word-search](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
