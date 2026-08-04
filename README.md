@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
