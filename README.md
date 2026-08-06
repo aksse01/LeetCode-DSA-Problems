@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0136-single-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
