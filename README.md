@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0166-fraction-to-recurring-decimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0171-excel-sheet-column-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0165-compare-version-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -817,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
