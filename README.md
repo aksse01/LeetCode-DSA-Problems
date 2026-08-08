@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0165-compare-version-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
