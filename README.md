@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0127-word-ladder](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0133-clone-graph](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0144-binary-tree-preorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
