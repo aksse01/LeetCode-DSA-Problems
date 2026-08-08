@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
