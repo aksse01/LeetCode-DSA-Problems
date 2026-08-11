@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0208-implement-trie-prefix-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -860,14 +862,17 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -916,4 +921,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
