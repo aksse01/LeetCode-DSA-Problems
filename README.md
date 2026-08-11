@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
+| [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0155-min-stack](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -883,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
