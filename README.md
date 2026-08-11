@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0174-dungeon-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
