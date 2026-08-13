@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0189-rotate-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
