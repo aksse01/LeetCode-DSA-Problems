@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0190-reverse-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0145-binary-tree-postorder-traversal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
