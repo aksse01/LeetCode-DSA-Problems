@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0143-reorder-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
