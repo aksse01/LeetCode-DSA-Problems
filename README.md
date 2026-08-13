@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -973,4 +976,5 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
