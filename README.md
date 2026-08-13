@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0200-number-of-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
