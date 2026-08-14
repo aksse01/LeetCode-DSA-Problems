@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0223-rectangle-area](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0203-remove-linked-list-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0191-number-of-1-bits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
