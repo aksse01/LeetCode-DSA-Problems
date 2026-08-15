@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1031,4 +1035,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0229-majority-element-ii) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
