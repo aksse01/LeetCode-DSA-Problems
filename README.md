@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0227-basic-calculator-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0213-house-robber-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0070-climbing-stairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -1079,4 +1084,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
