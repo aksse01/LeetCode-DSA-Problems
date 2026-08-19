@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0059-spiral-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
