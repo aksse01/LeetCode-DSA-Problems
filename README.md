@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
