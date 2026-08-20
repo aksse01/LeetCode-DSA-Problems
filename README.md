@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0260-single-number-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0222-count-complete-tree-nodes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
