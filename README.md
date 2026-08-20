@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0219-contains-duplicate-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0221-maximal-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0215-kth-largest-element-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
