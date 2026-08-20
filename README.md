@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0240-search-a-2d-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1124,4 +1125,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
