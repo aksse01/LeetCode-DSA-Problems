@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0231-power-of-two](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1039,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -1154,4 +1159,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
