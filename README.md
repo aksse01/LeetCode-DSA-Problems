@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0274-h-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
