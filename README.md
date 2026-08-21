@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0067-add-binary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
