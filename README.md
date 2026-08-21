@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0263-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0233-number-of-digit-one](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -1135,4 +1138,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
