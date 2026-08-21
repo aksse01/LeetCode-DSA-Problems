@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0189-rotate-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
