@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -1059,12 +1060,14 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -1179,4 +1183,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
