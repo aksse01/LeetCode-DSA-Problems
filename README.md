@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1054,12 +1058,14 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -1075,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Primality Test
 |  |
