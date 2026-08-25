@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0284-peeking-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0275-h-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -1210,4 +1213,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
