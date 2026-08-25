@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0282-expression-add-operators](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
