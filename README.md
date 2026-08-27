@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0133-clone-graph](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0207-course-schedule](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## String Matching
 |  |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
