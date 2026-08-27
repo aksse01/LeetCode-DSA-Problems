@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1023,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1178,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1187,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Queue
 |  |
@@ -1256,4 +1263,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
