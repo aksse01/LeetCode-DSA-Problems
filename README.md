@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0282-expression-add-operators](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
