@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0313-super-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0283-move-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0135-candy](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0232-implement-queue-using-stacks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -889,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0084-largest-rectangle-in-histogram](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
