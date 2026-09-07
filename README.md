@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0306-additive-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0313-super-ugly-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1531-string-compression-ii) |
