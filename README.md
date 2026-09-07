@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3718-smallest-missing-multiple-of-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
 |  |
 | ------- |
