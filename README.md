@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0306-additive-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
