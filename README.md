@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0268-missing-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0318-maximum-product-of-word-lengths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0208-implement-trie-prefix-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -1202,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 ## Z Algorithm
 |  |
 | ------- |
