@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0326-power-of-three](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0322-coin-change](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
