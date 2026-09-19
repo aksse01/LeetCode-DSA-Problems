@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1431,4 +1433,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0337-house-robber-iii) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
