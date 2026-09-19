@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0149-max-points-on-a-line](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0335-self-crossing) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bucket Sort
 |  |
 | ------- |
