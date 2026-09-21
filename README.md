@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0300-longest-increasing-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1383,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
 | ------- |
