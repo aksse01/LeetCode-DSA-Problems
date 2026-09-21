@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
@@ -1273,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
