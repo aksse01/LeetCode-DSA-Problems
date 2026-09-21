@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
