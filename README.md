@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0334-increasing-triplet-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0290-word-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0264-ugly-number-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -1080,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0169-majority-element](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1228,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0164-maximum-gap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1345,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
