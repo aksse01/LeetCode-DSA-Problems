@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0234-palindrome-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -1503,4 +1505,9 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
