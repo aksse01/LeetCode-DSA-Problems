@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 ## Merge Sort
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0341-flatten-nested-list-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
