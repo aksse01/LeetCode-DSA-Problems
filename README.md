@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0345-reverse-vowels-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0299-bulls-and-cows](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0232-implement-queue-using-stacks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
