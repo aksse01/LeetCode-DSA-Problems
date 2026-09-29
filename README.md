@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0349-intersection-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0318-maximum-product-of-word-lengths](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
