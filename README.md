@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0390-elimination-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
