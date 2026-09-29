@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0326-power-of-three](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0341-flatten-nested-list-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
