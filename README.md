@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0393-utf-8-validation) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0128-longest-consecutive-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0310-minimum-height-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -915,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -1076,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0385-mini-parser](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1580,4 +1587,12 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
