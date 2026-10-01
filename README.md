@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0377-combination-sum-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
