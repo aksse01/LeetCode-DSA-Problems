@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0393-utf-8-validation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0350-intersection-of-two-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 ## Sweep Line
 |  |
 | ------- |
