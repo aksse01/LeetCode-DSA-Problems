@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
