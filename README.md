@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0403-frog-jump](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0392-is-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0219-contains-duplicate-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
