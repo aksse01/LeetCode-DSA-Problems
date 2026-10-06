@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
