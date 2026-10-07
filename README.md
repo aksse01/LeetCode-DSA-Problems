@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
+| [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0237-delete-node-in-a-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -1357,11 +1359,13 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 ## Geometry
 |  |
 | ------- |
