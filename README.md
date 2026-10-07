@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0374-guess-number-higher-or-lower](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
