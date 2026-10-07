@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0404-sum-of-left-leaves](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1659,4 +1662,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
