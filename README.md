@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
