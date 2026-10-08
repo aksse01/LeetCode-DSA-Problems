@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0417-pacific-atlantic-water-flow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
