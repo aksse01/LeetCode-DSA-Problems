@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
