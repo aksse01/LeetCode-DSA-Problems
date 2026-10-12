@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0335-self-crossing](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0337-house-robber-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0282-expression-add-operators](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
