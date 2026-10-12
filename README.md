@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0347-top-k-frequent-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0400-nth-digit) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0128-longest-consecutive-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1410,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Queue
 |  |
@@ -1654,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
