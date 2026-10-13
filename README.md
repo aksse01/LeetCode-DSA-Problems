@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0220-contains-duplicate-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
