@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0389-find-the-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0212-word-search-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0393-utf-8-validation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
