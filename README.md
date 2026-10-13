@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0376-wiggle-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
