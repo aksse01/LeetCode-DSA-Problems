@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0349-intersection-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0433-minimum-genetic-mutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
