@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
