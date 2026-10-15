@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0443-string-compression](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
