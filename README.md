@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
