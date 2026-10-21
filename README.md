@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0400-nth-digit](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1167,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0394-decode-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1313,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0316-remove-duplicate-letters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -1704,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Queue
 |  |
