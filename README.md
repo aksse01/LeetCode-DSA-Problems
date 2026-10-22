@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1522,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Counting Sort
@@ -1705,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0406-queue-reconstruction-by-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1720,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 ## Queue
 |  |
 | ------- |
