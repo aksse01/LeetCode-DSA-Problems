@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0451-sort-characters-by-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -1563,12 +1565,14 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 ## Geometry
 |  |
 | ------- |
