@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0435-non-overlapping-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0241-different-ways-to-add-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
@@ -1661,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0292-nim-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
@@ -1904,4 +1909,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
