@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0466-count-the-repetitions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0301-remove-invalid-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -1292,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -1956,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 ## Probability and Statistics
 |  |
 | ------- |
