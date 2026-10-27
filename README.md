@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0467-unique-substrings-in-wraparound-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0467-unique-substrings-in-wraparound-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1853,6 +1856,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0279-perfect-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1943,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 ## Bidirectional Search
 |  |
 | ------- |
