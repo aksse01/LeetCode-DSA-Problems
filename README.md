@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0458-poor-pigs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
@@ -1913,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
@@ -1938,6 +1940,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Rejection Sampling
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 ## Quicksort
 |  |
@@ -1947,4 +1950,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0464-can-i-win) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
