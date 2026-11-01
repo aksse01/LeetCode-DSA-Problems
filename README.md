@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3689-maximum-total-subarray-value-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
