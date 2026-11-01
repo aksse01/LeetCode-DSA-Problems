@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0457-circular-array-loop](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1420,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0289-game-of-life](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
