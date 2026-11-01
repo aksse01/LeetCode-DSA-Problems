@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1531,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1576,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
