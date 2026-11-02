@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3161-block-placement-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
 |  |
 | ------- |
