@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3525-find-x-value-of-array-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1386,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -1543,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
