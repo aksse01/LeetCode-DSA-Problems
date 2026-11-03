@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -1898,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0322-coin-change](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1990,6 +1994,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 ## Bidirectional Search
 |  |
 | ------- |
