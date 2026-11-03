@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0457-circular-array-loop](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1226,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0306-additive-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -1323,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0473-matchsticks-to-square](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
