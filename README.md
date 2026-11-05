@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0492-construct-the-rectangle) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0457-circular-array-loop](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
