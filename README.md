@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0492-construct-the-rectangle) |
+| [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
