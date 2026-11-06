@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2540-minimum-common-value) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
