@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0445-add-two-numbers-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1479,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0402-remove-k-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
