@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0468-validate-ip-address](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
