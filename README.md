@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0451-sort-characters-by-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1882-process-tasks-using-servers) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
