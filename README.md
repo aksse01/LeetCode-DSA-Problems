@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1450,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0472-concatenated-words](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1564,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
