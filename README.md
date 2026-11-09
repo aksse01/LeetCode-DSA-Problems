@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0474-ones-and-zeroes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
