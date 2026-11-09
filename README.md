@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0517-super-washing-machines) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0517-super-washing-machines) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
