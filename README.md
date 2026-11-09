@@ -999,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
@@ -1461,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0501-find-mode-in-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0450-delete-node-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1682,6 +1685,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0450-delete-node-in-a-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
