@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
@@ -1490,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
