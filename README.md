@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0517-super-washing-machines](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
 | [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0492-construct-the-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1506,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0238-product-of-array-except-self](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -2032,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Brainteaser
 |  |
 | ------- |
