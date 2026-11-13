@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
