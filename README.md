@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0491-non-decreasing-subsequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0500-keyboard-row) |
+| [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0504-base-7) |
+| [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -2088,11 +2090,13 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0478-generate-random-point-in-a-circle) |
+| [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
