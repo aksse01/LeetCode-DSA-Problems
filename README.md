@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0513-find-bottom-left-tree-value](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0419-battleships-in-a-board](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
