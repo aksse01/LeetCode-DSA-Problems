@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0518-coin-change-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0521-longest-uncommon-subsequence-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -1242,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
