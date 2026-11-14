@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0504-base-7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0520-detect-capital](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -1551,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0412-fizz-buzz](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0495-teemo-attacking) |
+| [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
