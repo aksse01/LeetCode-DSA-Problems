@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1641,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0383-ransom-note](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
