@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1732-find-the-highest-altitude](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1174,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1790,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
