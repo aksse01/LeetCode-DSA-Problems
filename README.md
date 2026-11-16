@@ -979,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
@@ -1547,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2574-left-and-right-sum-differences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
