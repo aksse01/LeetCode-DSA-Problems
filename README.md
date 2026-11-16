@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
