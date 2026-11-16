@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1871-jump-game-vii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1579,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0537-complex-number-multiplication](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3612-process-string-with-special-operations-i) |
