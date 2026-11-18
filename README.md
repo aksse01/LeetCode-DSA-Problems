@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1621,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0204-count-primes](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1291-sequential-digits) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
