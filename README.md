@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1882-process-tasks-using-servers) |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2126-destroying-asteroids) |
