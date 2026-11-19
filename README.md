@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1872-stone-game-viii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1882-process-tasks-using-servers) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2029-stone-game-ix) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2409-count-days-spent-together) |
