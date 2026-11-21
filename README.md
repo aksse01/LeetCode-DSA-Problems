@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0542-01-matrix](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0303-range-sum-query-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
