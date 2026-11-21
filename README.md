@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0553-optimal-division](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0455-assign-cookies](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1294,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0506-relative-ranks](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -1848,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
