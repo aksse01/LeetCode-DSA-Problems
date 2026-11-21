@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0372-super-pow](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0372-super-pow) |
 | [0427-construct-quad-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0493-reverse-pairs) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1742,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
