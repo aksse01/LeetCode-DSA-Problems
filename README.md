@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1301-number-of-paths-with-max-score](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0556-next-greater-element-iii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0304-range-sum-query-2d-immutable](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1883,6 +1886,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0432-all-oone-data-structure](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0460-lfu-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -2147,6 +2151,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
