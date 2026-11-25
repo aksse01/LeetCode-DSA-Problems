@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3886-sum-of-sortable-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1945,12 +1948,14 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0336-palindrome-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -2253,4 +2258,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/0470-implement-rand10-using-rand7) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
