@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3904-smallest-stable-index-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
