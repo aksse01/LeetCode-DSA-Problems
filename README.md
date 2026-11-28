@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3934-smallest-unique-subarray](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1342,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [3731-find-missing-elements](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/aksse01/LeetCode-DSA-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Graph Theory
 |  |
 | ------- |
